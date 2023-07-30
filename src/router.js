@@ -12,6 +12,6 @@ export default createRouter({
       {
         path:'/sendform',
         component:FormPage
-    }
+      }
     ]
   });
