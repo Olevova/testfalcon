@@ -27,7 +27,7 @@
       <a href="#">
         <img src="/image/footer/youtube.svg" alt="youTube">
       </a >
-      <a href="#">
+      <a href="/sendform">
         <img src="/image/footer/pinterest.svg" alt="pinterest">
       </a >
     </div>
