@@ -1,0 +1,56 @@
+html,
+body {
+    background: $main-bg;
+    height: 100%;
+    font-family: Montserrat, serif;
+    margin: 0;
+    box-sizing: border-box;
+    color: $main-color
+
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 61px;
+    color: $main-title;
+}
+
+h2 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+    color: $main-title;
+}
+
+h3 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 39px;
+    color: $main-title;
+
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #443A5A;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+
+    &:hover {
+        transition: 0.5s;
+        cursor: pointer;
+        opacity: 0.5;
+    }
+}
+
+button {
+    font-family: Montserrat, serif;
+}
