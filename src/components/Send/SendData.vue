@@ -7,7 +7,7 @@
           titleText="Send your data"
           size="h2"
         />
-        <a href="/form">
+        <a href="/sendform">
         <ButtonApp text="Go to form" />
         </a>
       </div>

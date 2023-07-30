@@ -10,7 +10,7 @@ export default createRouter({
         component:HomePage
       },
       {
-        path:'/form',
+        path:'/sendform',
         component:FormPage
     }
     ]
