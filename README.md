@@ -3,3 +3,4 @@
 перейдіть у корневу директорію та для запуска виконайте команду npm run serve
 адреса живої сторінки https://testfalcon2023.netlify.app/
 TeamCity
+...
